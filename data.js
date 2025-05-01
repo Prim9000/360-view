@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-welcome-to-ban-mae-hat",
-      "name": "Welcome to Ban Mae Hat",
+      "id": "0-welcome-to-baan-mae-hat",
+      "name": "Welcome to Baan Mae Hat",
       "levels": [
         {
           "tileSize": 256,
@@ -40,7 +40,7 @@ var APP_DATA = {
         {
           "yaw": -2.8549318125779433,
           "pitch": 0.25121651289934555,
-          "title": "Welcome to Ban Mae Hat",
+          "title": "Welcome to Baan Mae Hat",
           "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Organic lifestyle of Karen People. Surrounded by mountains, the lifestyle of Karen people are connected to nature, water, forest and agriculture.</span>"
         }
       ]
@@ -71,24 +71,24 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.5172660491946388,
-          "pitch": 0.16123916049079234,
+          "yaw": -1.4919594341289368,
+          "pitch": 0.28202538651720843,
           "rotation": 0,
-          "target": "2-natural-environment"
+          "target": "2-karen-environment"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.016683642198541904,
-          "pitch": 0.17266798489952428,
+          "yaw": 0.18521751788701124,
+          "pitch": 0.14732262591524048,
           "title": "Karen House",
           "text": "Karen people made their house from wood, and natural material. They live together in a family and cook food."
         }
       ]
     },
     {
-      "id": "2-natural-environment",
-      "name": "Natural Environment",
+      "id": "2-karen-environment",
+      "name": "Karen Environment",
       "levels": [
         {
           "tileSize": 256,
@@ -123,14 +123,14 @@ var APP_DATA = {
           "yaw": -0.44362575060258536,
           "pitch": 0.1857102937947488,
           "rotation": 0,
-          "target": "3-tank-and-hill-top"
+          "target": "3-kht-tank-and-hill-top"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-tank-and-hill-top",
-      "name": "Tank and Hill top",
+      "id": "3-kht-tank-and-hill-top",
+      "name": "KHT Tank and Hill top",
       "levels": [
         {
           "tileSize": 256,
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "faceSize": 1440,
       "initialViewParameters": {
-        "yaw": 1.141681072000079,
-        "pitch": 0.15493638825274658,
+        "yaw": 1.2891484225186414,
+        "pitch": 0.23316822488618172,
         "fov": 1.2599180821480807
       },
       "linkHotspots": [
@@ -224,7 +224,7 @@ var APP_DATA = {
           "yaw": 1.9200022264678172,
           "pitch": 0.11319061427576571,
           "title": "Water Tank",
-          "text": "This tank can hold 2000 Liters of water for the family to use."
+          "text": "Two storage tanks, each with a capacity of 10,000 liters, are available for use by the household and during dry spells."
         }
       ]
     },
@@ -258,17 +258,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.898795576744515,
-          "pitch": 0.055339562786636876,
+          "yaw": 1.8996266748347441,
+          "pitch": 0.05278338267255478,
           "rotation": 0,
           "target": "6-baan-na-ngew"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.38615865015808026,
-          "pitch": 0.1168023889601173,
-          "title": "Irrigation Field",
+          "yaw": -0.31585556992079944,
+          "pitch": 0.01357861454498277,
+          "title": "Baan Mae Oom Long Noi",
           "text": "<p style=\"font-size: 16px\" data-pm-slice=\"1 1 []\">Agriculture has become the main part of Karen's lifestyle. They plant food, grow crops, rice, and vegetables.</p>"
         },
         {
@@ -299,58 +299,35 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -1.9539193532967367,
-        "pitch": -0.07412154964760376,
+        "yaw": -0.9601010228607514,
+        "pitch": -0.027986871086413956,
         "fov": 1.2599180821480807
       },
       "linkHotspots": [
         {
-          "yaw": 2.1068221031909813,
-          "pitch": 0.02989552226753034,
+          "yaw": 2.0184756707046274,
+          "pitch": 0.02656429441505992,
           "rotation": 0,
-          "target": "0-welcome-to-ban-mae-hat"
+          "target": "0-welcome-to-baan-mae-hat"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.3781348684967067,
-          "pitch": -0.036269890144325245,
+          "yaw": -1.4548622385140373,
+          "pitch": -0.10580119365110718,
           "title": "Terrain for growing crops",
           "text": "Karen communities in the upland regions of northern Thailand have long adapted their agricultural practices to rugged, forested terrain. They understanding the interplay between topography, soils, and land-management."
         },
         {
-          "yaw": 2.1036197197866207,
-          "pitch": -0.0883422323368741,
-          "title": "House and weaving center",
-          "text": "In Karen hill-tribe villages, the <strong data-start=\"98\" data-end=\"107\">house</strong> and the <strong data-start=\"116\" data-end=\"134\">weaving center</strong> stand as focal points of domestic life, social cohesion, and cultural identity. Their architectural forms and communal functions reflect traditional knowledge, local materials, and the evolving needs of the community."
+          "yaw": 2.0301814652626105,
+          "pitch": -0.15303846634198592,
+          "title": "Baan Na Ngew",
+          "text": "In Karen hill-tribe villages, the <strong data-start=\"98\" data-end=\"107\">house</strong> and the <strong data-start=\"116\" data-end=\"134\">weaving center</strong> stand as focal points of domestic life, social cohesion, and cultural identity."
         }
       ]
-    },
-    {
-      "id": "7-village1_irrigation",
-      "name": "village1_Irrigation",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        }
-      ],
-      "faceSize": 384,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
     }
   ],
-  "name": "Karen Hill Tribe 360° View",
+  "name": "Karen Hill Tribe 360° View Final",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
