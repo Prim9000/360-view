@@ -168,8 +168,8 @@ var APP_DATA = {
         {
           "yaw": 0.9099084751448441,
           "pitch": -0.030817306556974344,
-          "title": "Welcome to Ban Mae Hat",
-          "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Organic lifestyle of Karen People. Surrounded by mountains, the lifestyle of Karen people are connected to nature, water, forest and agriculture.</span>"
+          "title": "Baan Mae Hat Uphill",
+          "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Nestled high in the hills and surrounded by strong sunshine and steep terrain, the Karen hill area is defined by its hilly landscape.</span>"
         },
         {
           "yaw": -0.4901466623173292,
