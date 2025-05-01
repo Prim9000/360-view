@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": -2.8549318125779433,
           "pitch": 0.25121651289934555,
           "title": "Welcome to Baan Mae Hat",
-          "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Organic lifestyle of Karen People. Surrounded by mountains, the lifestyle of Karen people are connected to nature, water, forest and agriculture.</span>"
+          "text": "Organic lifestyle of Karen People. Surrounded by mountains, the lifestyle of Karen people are connected to nature, water, forest and agriculture."
         }
       ]
     },
@@ -166,8 +166,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.9099084751448441,
-          "pitch": -0.030817306556974344,
+          "yaw": 1.434747285431988,
+          "pitch": 0.09470184332393394,
           "title": "Baan Mae Hat Uphill",
           "text": "Nestled high in the hills and surrounded by strong sunshine and steep terrain, the Karen hill area is defined by its hilly landscape."
         },
